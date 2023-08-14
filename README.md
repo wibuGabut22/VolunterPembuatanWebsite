@@ -9,4 +9,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
-* Ezra Jon Freddy Pakpahan [Git]([https://ezrapakpahan123.wixsite.com/website](https://github.com/Ezan220401)https://github.com/Ezan220401).
+* Ezra Jon Freddy Pakpahan, [Git]([https://ezrapakpahan123.wixsite.com/website](https://github.com/Ezan220401)https://github.com/Ezan220401).
